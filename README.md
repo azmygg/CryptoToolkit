@@ -91,9 +91,9 @@ Place `rockyou.txt` in the project folder to enable the breach database check on
 ```
 CryptoToolkit/
 │
-├── crypto_lib.py       # Cryptographic backend — all algorithms & tools
-├── crypto_gui.py       # Tkinter GUI — two-tab desktop application
-├── rockyou.txt         # (optional) breach password database
+├── code
+    ├── crypto_lib.py       # Cryptographic backend — all algorithms & tools
+    ├── crypto_gui.py       # Tkinter GUI — two-tab desktop application
 ├── README.md
 └── screenshots/        # (optional) app screenshots
 ```
