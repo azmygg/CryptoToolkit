@@ -55,8 +55,6 @@ Built as a cryptography course project, it covers everything from symmetric bloc
 
 ## 🖥️ Screenshots
 
-> *Add your screenshots here*
-
 | Home — Password Analyzer | Crypto Toolkit — AES |
 |:---:|:---:|
 | ![Home](screenshots/home.png) | ![AES](screenshots/aes.png) |
@@ -149,5 +147,5 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ---
 
 <div align="center">
-Made with 🔐 by <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a>
+Made with 🔐 by <a href="https://github.com/azmygg">Mahmoud Azmy</a>
 </div>
