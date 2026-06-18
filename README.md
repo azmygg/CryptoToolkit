@@ -71,7 +71,7 @@ Built as a cryptography course project, it covers everything from symmetric bloc
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/CryptoToolkit.git
+git clone https://github.com/azmygg/CryptoToolkit.git
 cd CryptoToolkit
 
 # 2. Install the only dependency
